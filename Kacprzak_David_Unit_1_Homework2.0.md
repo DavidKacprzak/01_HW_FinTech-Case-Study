@@ -62,7 +62,7 @@ Major companies in the payments domain are:
 * Visa
 * Zelle
 
-BSV comptitors include:
+BSV competitors include:
 * Centbee
 * ElectrumSV
 * HandCash
