@@ -1,2 +1,2 @@
-# 01_HW_FinTech-Case-Study
-Week 1 Homework: FinTech Case Study - Money Button
+# FinTech-Case-Study
+FinTech Case Study - Money Button
